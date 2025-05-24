@@ -1,4 +1,5 @@
 # Analyzing Trader Behavior and Market Sentiment
+This project explores the relationship between trader performance and market sentiment using historical trading data and the Fear-Greed Index. It involves data cleaning, EDA, visualization, statistical analysis, machine learning (KMeans clustering & Random Forest regression), and performance evaluation of traders across different sentiment phases. Key insights include how sentiment impacts profitability, which traders thrive under certain conditions, and how segmentation can guide better decision-making for both traders and the platform.
 
 ## **Summary of Tasks**
 Analyzed historical trading data, sentiment data (Fear-Greed index), and applied:
